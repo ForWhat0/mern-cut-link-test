@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret":"romanTESTmern",
+    "mongoURL": "mongodb+srv://rzozyla:aezakmi3004@cluster0.c0jll.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+}
